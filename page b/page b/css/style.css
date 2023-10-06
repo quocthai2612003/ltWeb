@@ -1,0 +1,16 @@
+* {
+    color: black;
+
+}
+.container {
+
+    display: flex;
+    justify-content: center;
+    padding-left: auto;
+    padding-right: auto;
+
+}
+.eight .columns .alpha .mobile_center img {
+    justify-content: start;
+
+}
